@@ -1,0 +1,1 @@
+This is a WordPress project about a 'Digital Agency Business' exported from 'LocalWP' in static files.
